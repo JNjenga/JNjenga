@@ -8,4 +8,4 @@ I seek to understand everything that my mind can grasp about computers.
 
 ~ Richard Feynman
 
-I have a [blog](http://jnjenga.com/posts).
+I have a [blog](http://jnjenga.com/articles).
