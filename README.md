@@ -9,3 +9,6 @@ I seek to understand everything that my mind can grasp about computers.
 ~ Richard Feynman
 
 I have a [blog](http://jnjenga.com/articles).
+
+---
+![codewars](https://www.codewars.com/users/JNjenga/badges/large)
